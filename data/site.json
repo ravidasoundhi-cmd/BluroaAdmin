@@ -1,0 +1,18 @@
+{
+  "logo": "/assets/images/logo.png",
+  "home": {
+    "title": "Bluroa Cafe",
+    "subtitle": "Craft Coffee & Good Vibes",
+    "cta": "View Menu"
+  },
+  "contact": {
+    "phone": "+971...",
+    "email": "info@bluroa.com",
+    "address": "Dubai, UAE"
+  },
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "whatsapp": ""
+  }
+}
