@@ -2,7 +2,7 @@
   "logo": "/assets/images/logo.png",
   "home": {
     "title": "Bluroa Cafe",
-    "subtitle": "Craft Coffee & Good Vibes",
+    "subtitle": "where blue is bliss , Craft Coffee & Good Vibes",
     "cta": "View Menu"
   },
   "contact": {
@@ -11,8 +11,8 @@
     "address": "Dubai, UAE"
   },
   "social": {
-    "instagram": "",
-    "facebook": "",
-    "whatsapp": ""
+    "instagram": "@bluroacafe",
+    "facebook": "@bluroacafe",
+    "whatsapp": "+919326156073"
   }
 }
